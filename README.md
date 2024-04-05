@@ -1,6 +1,6 @@
 #  Project 1: Data Science: The Light of Information
 ### Overview
-Team Lake, consisting of Ibrahim Moazzam, Lizett Aguilar, Noah Attal, Shirley Araiza Santaella, and Nuzhat Zahan, introduces a Python project allowing easy control of LED strip lights. 
+Team Lake, consisting of Nuzhat Zahan, Ibrahim Moazzam, Lizett Aguilar, Noah Attal,and Shirley Araiza Santaella, introduces a Python project allowing easy control of LED strip lights. 
 
 Our project is designed with scalability in mind, accommodating a strip of lights that illuminate based on the International Space Station's coordinates across the globe. Leveraging object-oriented programming and a structured series of classes, our code is adaptable to accommodate any future modifications or enhancements.
 
@@ -85,5 +85,5 @@ If you need help with the project or encounter any issues, you can:
 2. Explore the project documentation for troubleshooting guides or additional information.
    
 ### Maintainers
-This project is maintained and contributed to by Team LAKE (Members: Ibrahim Moazzam (imoazzam@umich.edu), Lizett Aguilar (lizett@umich.edu), Noah Attal (attnoah@umich.edu) , Shirley Araiza Santaella (saraizas@umich.edu) , and  Nuzhat Zahan (znuzhat@umich.edu). We are committed to keeping the project up-to-date and welcoming contributions from the community. 
+This project is maintained and contributed to by Team LAKE (Members: Nuzhat Zahan (znuzhat@umich.edu),  Ibrahim Moazzam (imoazzam@umich.edu), Lizett Aguilar (lizett@umich.edu), Noah Attal (attnoah@umich.edu) and, Shirley Araiza Santaella (saraizas@umich.edu). We are committed to keeping the project up-to-date and welcoming contributions from the community. 
 
